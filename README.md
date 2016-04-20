@@ -7,3 +7,4 @@ Aplicação de exemplo de autenticação com token
 
 `GET /api/users` lista os usuários do banco de dados
 
+Para autenticação envie o token pela URL pelo parâmetro ou pelo cabeçalho com o nome `token`
