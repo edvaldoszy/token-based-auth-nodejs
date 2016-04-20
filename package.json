@@ -1,0 +1,33 @@
+{
+  "name": "token-based-auth-nodejs",
+  "version": "1.0.0",
+  "description": "Token based Application using Nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edvaldoszy/token-based-auth-nodejs.git"
+  },
+  "keywords": [
+    "token",
+    "auth",
+    "nodejs"
+  ],
+  "author": "Edvaldo Szymonek <edvaldoszy@gmail.com> (http://edvaldotsi.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edvaldoszy/token-based-auth-nodejs/issues"
+  },
+  "homepage": "https://github.com/edvaldoszy/token-based-auth-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "express-load": "^1.1.15",
+    "jsonwebtoken": "^5.7.0",
+    "mongoose": "^4.4.12",
+    "morgan": "^1.7.0"
+  }
+}

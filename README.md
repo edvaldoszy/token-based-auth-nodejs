@@ -1,2 +1,9 @@
 # token-based-auth-nodejs
-Token based Application using Nodejs
+Aplicação de exemplo de autenticação com token
+
+`POST /api/auth` obtem um token de acesso
+
+`POST /api/users` insere um usuário no banco de dados
+
+`GET /api/users` lista os usuários do banco de dados
+
