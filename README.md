@@ -31,7 +31,7 @@ HTTP/1.x 200 OK
 ...
 [
   {
-    _id: 8f7ds6f4dfds56f87ds8f0,
+    _id: "8f7ds6f4dfds56f87ds8f0",
     name: "Edvaldo Szymonek",
     email: "edvaldoszy@gmail.com"
   }
