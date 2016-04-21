@@ -8,8 +8,8 @@ Aplicação de exemplo de autenticação com token
 HTTP/1.x 200 OK
 ...
 {
-  status: 'OK',
-  token: 'ACESS_TOKEN'
+  status: "OK",
+  token: "ACESS_TOKEN"
 }
 ```
 
@@ -18,8 +18,8 @@ HTTP/1.x 200 OK
 HTTP/1.x 403 Forbidden
 ...
 {
-  status: 'ERROR',
-  message: 'Error message'
+  status: "ERROR",
+  message: "Error message"
 }
 ```
 
